@@ -570,6 +570,6 @@ The Swarms Protocol is a fundamental paradigm shift in how we think about agent 
 
 As agent continues to evolve, the ability to coordinate multiple specialized agents will become increasingly critical. The Swarms Protocol positions you at the forefront of this evolution, providing the tools and frameworks needed to build the next generation of agent systems.
 
-The protocol is more than just a technical specification—it's a vision for how agent systems should work together. By adopting the Swarms Protocol, you're not just implementing a solution; you're joining a movement toward more intelligent, collaborative, and scalable agent systems.
+The protocol provides a vision for how agent systems should work together. By adopting the Swarms Protocol, you're joining a movement toward more intelligent, collaborative, and scalable agent systems.
 
 For more examples and advanced use cases, explore the examples directory in the Swarms repository, which contains implementations of various multi-agent patterns and architectures. Join the community and help shape the future of multi-agent collaboration.

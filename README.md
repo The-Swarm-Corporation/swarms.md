@@ -1,5 +1,7 @@
 # The `swarms.md` Protocol: Universal Protocol for Large-Scale Multi-Agent Collaboration
 
+![Banner image](banner.png)
+
 The Swarms Protocol represents a breakthrough in multi-agent system design, providing a universal, standardized approach to large-scale AI agent collaboration. This protocol establishes a common language and framework that enables seamless coordination between diverse AI agents, regardless of their underlying implementation or domain specialization.
 
 ## What is the Swarms Protocol?

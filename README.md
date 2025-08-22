@@ -1,4 +1,4 @@
-# The `swarms.md` Protocol: Universal Protocol for Large-Scale Multi-Agent Collaboration
+# The `swarms.yaml` Protocol: Universal Protocol for Large-Scale Multi-Agent Collaboration
 
 ![Banner image](banner.png)
 
